@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on Full Stack Projects<br>👯 I’m looking to collaborate on my future projects<br>🤝 I’m looking for help with great mern skills<br>🌱 I’m currently learning full stack and data analysis<br>💬 Ask me about me<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
